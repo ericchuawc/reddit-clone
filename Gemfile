@@ -5,6 +5,7 @@ ruby '2.5.3'
 
 gem 'devise', '~> 4.5'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'acts_as_votable', '~> 0.12.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
